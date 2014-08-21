@@ -1,17 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "org.coenraets.employeedirectory"
+        id          = "com.example.hello"
         versionCode = "10"
         version     = "1.1.0">
  
-    <name>Employee Directory</name>
+    <name>Sound Test</name>
  
     <description>
         Sound Test
     </description>
  
-    <author href="http://coenraets.org" email="dipakp@chetu.com">
+    <author href="http://example.org" email="dipakp@chetu.com">
         Dipak Pandey
     </author>
  
